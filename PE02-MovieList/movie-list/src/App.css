@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+}
+
+select {
+  padding: 8px;
+  margin-bottom: 20px;
+}
+
+li {
+  list-style: none;
+}
